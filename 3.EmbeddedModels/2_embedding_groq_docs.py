@@ -13,3 +13,4 @@ documents = [
 
 result = embedding.embed_documents(documents)
 print(result)
+
